@@ -1,71 +1,76 @@
 # Copys de Instagram: recarga de agua a S/14
 
-Producto: recarga de agua a **S/14**.
-Tono: cercano, directo, peruano. Cada copy trae gancho (primera línea), cuerpo, llamado a la acción y hashtags.
+**Producto:** recarga de bidón de 20 L a **S/14** (bidón nuevo 20 L: S/35).
+**Diferencial:** el agua pasa por calcita y llega con pH alcalino. La competencia cobra lo mismo por la recarga, así que **no vendemos precio: vendemos mejor agua al mismo precio**.
+**Cobertura:** reparto a domicilio en toda Arequipa ciudad, lunes a sábado de 8 a. m. a 7 p. m.
+**WhatsApp:** 915 357 270
 
-> Antes de publicar, completa los datos que no tengo: tamaño de la recarga, zonas de entrega (si hay delivery) y el número de WhatsApp. Reemplaza `[WHATSAPP]` en cada copy.
-
----
-
-## Copy 1: Precio directo
-
-**Gancho:** Tu recarga de agua cuesta S/14. Punto. 💧
-
-**Cuerpo:**
-Sin vueltas ni letras chicas. Pides tu recarga, la recibes y te olvidas de quedarte sin agua en casa o en la oficina.
-
-**CTA:** Escríbenos al [WHATSAPP] y pide la tuya hoy.
-
-**Hashtags:** #RecargaDeAgua #AguaEnArequipa #Vitafreeze #AguaParaTodos #Arequipa
+**Antes de publicar**
+- Usar foto real del bidón Vitafreeze, en azulino de marca (Kit de Marca de Canva).
+- No prometer beneficios de salud (nada de "cura", "previene", "desintoxica"). Decimos qué es el agua, no qué hace en el cuerpo.
+- Pautar solo en Arequipa ciudad (zona de reparto).
 
 ---
 
-## Copy 2: Pregunta que engancha
+## Copy 1 · Mismo precio, mejor agua
 
-**Gancho:** ¿Cuándo fue la última vez que te quedaste sin agua justo cuando más la necesitabas? 😅
+**Gancho:** Ya pagas S/14 por tu recarga. La pregunta es qué agua recibes.
 
 **Cuerpo:**
-Que no te vuelva a pasar. Con tu recarga de S/14 tienes agua lista para toda la semana, sin complicarte.
+En Vitafreeze tu bidón de 20 L pasa por calcita y llega con pH alcalino. Cuesta lo mismo que ya pagas y te lo llevamos a tu casa en cualquier punto de Arequipa.
 
-**CTA:** Guarda este post y pide tu recarga por WhatsApp: [WHATSAPP].
+**CTA:** Pide tu recarga por WhatsApp al 915 357 270.
 
-**Hashtags:** #RecargaDeAgua #Hidratación #Vitafreeze #VidaSana #Arequipa
+**Hashtags:** #AguaAlcalina #Arequipa #RecargaDeAgua #Vitafreeze
 
 ---
 
-## Copy 3: Para la familia
+## Copy 2 · Pregunta que engancha
 
-**Gancho:** El agua de casa también se cuida. 🏠💙
+**Gancho:** ¿Sabes qué pH tiene el agua que toman en tu casa?
 
 **Cuerpo:**
-Para el desayuno, el almuerzo y la tarea de los chicos: una recarga de S/14 y toda la familia tiene agua a la mano.
+La nuestra pasa por calcita antes de llegar a tu bidón y sale alcalina. Recarga de 20 L a S/14, con reparto de lunes a sábado.
 
-**CTA:** Pide tu recarga y etiqueta a quien la necesite en casa.
+**CTA:** Escríbenos al 915 357 270 y te la llevamos hoy.
 
-**Hashtags:** #AguaEnCasa #RecargaDeAgua #FamiliaSana #Vitafreeze #Arequipa
+**Hashtags:** #AguaAlcalina #AguaArequipa #Vitafreeze
 
 ---
 
-## Copy 4: Para la oficina y el negocio
+## Copy 3 · Familia
 
-**Gancho:** Tu equipo rinde mejor cuando nadie anda buscando agua. 💼💧
+**Gancho:** En casa se toma agua todo el día. Que sea buena.
 
 **Cuerpo:**
-Recarga para la oficina, el taller o tu negocio a S/14. Fácil de pedir, fácil de repetir.
+Para el desayuno, la lonchera, la cocina y la noche. Bidón de 20 L de agua alcalina filtrada por calcita, a S/14 la recarga y en la puerta de tu casa.
 
-**CTA:** Escríbenos al [WHATSAPP] y coordinamos tu recarga.
+**CTA:** Haz tu pedido por WhatsApp: 915 357 270.
 
-**Hashtags:** #AguaParaOficina #RecargaDeAgua #NegociosArequipa #Vitafreeze #Emprendedores
+**Hashtags:** #AguaParaLaFamilia #AguaAlcalina #Arequipa #Vitafreeze
 
 ---
 
-## Copy 5: Urgencia suave y compartible
+## Copy 4 · Oficina o negocio
 
-**Gancho:** Pasa la voz: la recarga de agua está a S/14. 📣
+**Gancho:** El bidón de la oficina siempre se acaba en el peor momento.
 
 **Cuerpo:**
-Si conoces a alguien que siempre se queda sin agua, este post es para esa persona. Compártelo y ahórrale el apuro.
+Pide antes de quedarte sin agua. Repartimos de lunes a sábado, de 8 a. m. a 7 p. m., en toda Arequipa. Agua alcalina en bidón de 20 L a S/14 la recarga. Si pides varios bidones, consúltanos.
 
-**CTA:** Comparte este post y pide tu recarga al [WHATSAPP].
+**CTA:** Coordina tu pedido al 915 357 270.
 
-**Hashtags:** #RecargaDeAgua #PasaLaVoz #Vitafreeze #Arequipa #AguaSiempre
+**Hashtags:** #AguaParaOficinas #AguaArequipa #AguaAlcalina #Vitafreeze
+
+---
+
+## Copy 5 · Empieza con nosotros
+
+**Gancho:** ¿Todavía no tienes bidón? Empieza aquí.
+
+**Cuerpo:**
+Bidón nuevo de 20 L a S/35 y después solo recargas a S/14. Agua filtrada por calcita, con pH alcalino, llevada a tu casa en Arequipa.
+
+**CTA:** Pide tu primer bidón por WhatsApp: 915 357 270.
+
+**Hashtags:** #AguaAlcalina #Arequipa #BidonDeAgua #Vitafreeze
