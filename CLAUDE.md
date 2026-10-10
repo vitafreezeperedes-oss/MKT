@@ -23,3 +23,11 @@ Ventas → rentabilidad → adquisición → recompra → ticket promedio → re
 ## Reglas del repositorio
 - El repositorio es público: nunca escribir datos de clientes, IDs de cuentas, presupuestos ni costos.
 - Trabaja en ramas y abre PR; no hagas commit directo a `main`.
+
+## Datos clave (usar siempre, no dejar placeholders)
+- WhatsApp de pedidos: 915 357 270. Web: www.vitafreeze.pe. Redes: vitafreeze.pe.
+- Agua: bidón 20 L nuevo S/35, recarga 20 L S/14. También botellón 7 L, cajas y packs 500 ml.
+- Reparto de agua a domicilio en toda Arequipa ciudad, lunes a sábado de 8 a. m. a 7 p. m. Local: Av. Fernandini 103, Sachaca.
+- Diferencial del agua: pasa por calcita y tiene pH alcalino. La competencia cobra lo mismo por la recarga, así que el copy vende el diferencial, no el precio.
+- Shots: planes de 7 días S/49.90, 14 días S/109.90, 21 días S/149.90, 30 días S/199.90 (14, 21 y 30 incluyen delivery).
+- Si falta un dato, búscalo primero en README.md y en este archivo antes de dejar un placeholder.
